@@ -1,101 +1,141 @@
-# Hi, I'm Abhishek Gangwar 👋
 
-### Software Engineer | Backend Engineering | Java | System Design
+<h1 align="center">Hey, I'm Abhishek Gangwar 👋</h1>
 
-I’m a Software Engineer focused on building **reliable backend systems, well-designed software, and practical engineering solutions**.
+<h3 align="center">
+  Software Engineer | Backend Systems | AI & Agentic Engineering
+</h3>
 
-I enjoy turning ideas into working products and solving problems across **backend development, software design, databases, and AI-powered applications**.
+<p align="center">
+  I build scalable backend systems, developer tools, and AI-powered applications.
+  <br />
+  Passionate about system design, distributed systems, LLMs, and turning ideas into production-ready software.
+</p>
 
----
-
-### ⚙️ What I Build
-
-* 🏗️ **Backend Systems** — REST APIs, services, databases & asynchronous processing
-* ☕ **Java Applications** — OOP, design patterns, clean and maintainable code
-* 🧩 **Software Design** — Low-Level Design, System Design & architectural thinking
-* 🤖 **AI-Powered Applications** — LLMs, RAG, embeddings & intelligent workflows
-* 🧠 **Problem Solving** — Data Structures, Algorithms & competitive programming
-
----
-
-### 🚀 Featured Projects
-
-**[SnapNotes](https://github.com/abhishekkk1802/snap-notes)**
-A local-first Chrome extension for capturing, organizing, searching and exporting web highlights.
-
-`React` `TypeScript` `IndexedDB` `Zustand` `Manifest V3` `Testing`
-
-**[Outfit Recommendation System](https://github.com/abhishekkk1802/outfit-reco)**
-A backend-driven recommendation system using caching, background processing and AI-powered recommendations.
-
-`Node.js` `Express` `Redis` `BullMQ` `Gemini` `Docker`
-
-**[LLM-Powered File System Assistant](https://github.com/abhishekkk1802/LLM-Powered-File-System-Assistant)**
-An AI assistant combining LLM function calling, filesystem tools, RAG, embeddings and vector search to perform intelligent tasks.
-
-`Python` `LLM` `RAG` `Embeddings` `ChromaDB`
-
-**[LLDPractice](https://github.com/abhishekkk1802/LLDPractice)**
-Hands-on implementations of object-oriented and Low-Level Design problems including Parking Lot, Library Management and TicTacToe.
-
-`Java` `OOP` `SOLID` `Design Patterns`
-
-**[MediTrack](https://github.com/abhishekkk1802/MediTrack)**
-A Java-based clinic management system designed around object-oriented principles and design patterns.
-
-`Java` `OOP` `Design Patterns`
-
-**[DSA](https://github.com/abhishekkk1802/DSA)**
-Data Structures & Algorithms practice covering problem-solving patterns, NeetCode 150, Tries, Priority Queues and more.
-
-`Java` `DSA` `Algorithms`
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishek-gangwar-7551bb215">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/abhishekgangwar/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  </a>
+  <a href="https://github.com/abhishekkk1802">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-### 🛠️ Technical Stack
+## 🚀 About Me
 
-**Languages**
+- 💻 Software Engineer focused on backend engineering and scalable systems.
+- 🤖 Exploring AI engineering, LLM integrations, and agentic workflows.
+- 🏗️ Interested in distributed systems, system design, APIs, and cloud infrastructure.
+- 🧠 Practicing data structures, algorithms, and low-level/high-level design.
+- 🛠️ I enjoy building practical projects that solve real engineering problems.
+- 📍 Based in India.
 
-Java · C++ · Python · JavaScript · TypeScript · SQL
+## 🧰 Tech Stack
 
-**Backend**
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,sql,bash" alt="Languages" />
+</p>
 
-Spring Boot · Node.js · Express · REST APIs
+### Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,flask" alt="Backend technologies" />
+</p>
 
-**Databases & Infrastructure**
+### AI & LLM Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Agentic_AI-6A5ACD?style=flat" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-555555?style=flat" alt="Model Context Protocol" />
+</p>
 
-MongoDB · Redis · SQL · AWS · Docker · Terraform
+### Databases, Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,aws,docker,terraform,grafana,prometheus,git,linux" alt="Databases and infrastructure" />
+</p>
 
-**Engineering**
+## 🌟 Featured Projects
 
-OOP · SOLID · Design Patterns · Low-Level Design · System Design · Data Structures & Algorithms
+### 🔹 [PRISM — AI Gateway](https://github.com/abhishekkk1802/Prism)
+An AI gateway project focused on OpenAI-compatible APIs, model routing, and reliable LLM request handling.
 
-**AI**
+**Focus areas:** Java, Spring Boot, Gradle, PostgreSQL, WebFlux, LLM integrations.
 
-LLMs · RAG · Embeddings · Vector Search · AI Agents
+### 🔹 [Agentic Recruitment Intelligence System](https://github.com/abhishekkk1802/Agentic-Recruitment-Intelligence-System)
+An AI-focused recruitment project exploring intelligent workflows for recruitment and candidate evaluation.
 
----
+**Focus areas:** Agentic AI, LLM integration, workflow automation.
 
-### 🔭 Current Focus
+### 🔹 [SnapNotes](https://github.com/abhishekkk1802/snap-notes)
+A browser extension project for capturing and organizing notes while browsing.
 
-I’m currently going deeper into:
+**Focus areas:** TypeScript, JavaScript, browser extension development.
 
-* **Backend Engineering** — designing reliable and maintainable services
-* **Software Design** — OOP, SOLID, Low-Level Design & design patterns
-* **System Design** — scalability, reliability and distributed architectures
-* **Problem Solving** — Data Structures & Algorithms
-* **Engineering Practices** — testing, clean architecture and production-oriented development
+### 🔹 [LLM-Powered File System Assistant](https://github.com/abhishekkk1802/LLM-Powered-File-System-Assistant)
+An exploration of LLM-powered assistance for file-system-related tasks.
 
----
+**Focus areas:** Python, LLM integration, developer productivity.
 
-### 📈 Engineering Philosophy
+### 🔹 [File System Organizer](https://github.com/abhishekkk1802/File-System-Organizer)
+A utility project focused on organizing files and simplifying file-management workflows.
 
-> **Build it. Understand it. Measure it. Improve it.**
+**Focus areas:** JavaScript, automation, productivity tools.
 
-I believe good software is not just about making things work — it's about understanding the **trade-offs, architecture, performance, reliability and maintainability** behind the solution.
+> Explore my repositories for more projects and experiments.
 
----
+## 📈 GitHub Stats
 
-### 🔗 Connect
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=abhishekkk1802&show_icons=true&hide_border=true&theme=github_dark"
+    alt="GitHub statistics"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkk1802&layout=compact&hide_border=true&theme=github_dark"
+    alt="Most used programming languages"
+    height="165"
+  />
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/abhishek-gangwar-7551bb215/) · [LeetCode](https://leetcode.com/u/abhishekgangwar/) · [Codeforces](https://codeforces.com/profile/spxdiode)
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=abhishekkk1802&theme=github-dark-blue&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+</p>
+
+## 🧩 What I'm Working On
+
+- Building backend services with clean architecture and maintainable code.
+- Exploring LLM-powered applications, AI gateways, and agentic systems.
+- Strengthening system design and distributed systems fundamentals.
+- Improving problem-solving through data structures and algorithms.
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing backend engineering, AI systems, system design, and interesting software projects.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishek-gangwar-7551bb215">
+    LinkedIn
+  </a>
+  •
+  <a href="https://github.com/abhishekkk1802">
+    GitHub
+  </a>
+  •
+  <a href="https://leetcode.com/u/abhishekgangwar/">
+    LeetCode
+  </a>
+</p>
+
+<p align="center">
+  <i>"Build things that work. Design systems that scale. Keep learning."</i>
+</p>
